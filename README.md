@@ -58,10 +58,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arnab27622&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true&area_color=30A3DC" height="300" alt="activity-graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arnab27622&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="200" alt="GitHub stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Arnab27622&theme=radical&hide_border=false" height="200" alt="Streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab27622&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200" alt="Top languages"/>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arnab27622&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="200" alt="GitHub stats" style="max-width: 100%; min-width: 300px;"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Arnab27622&theme=radical&hide_border=false" height="200" alt="Streak stats" style="max-width: 100%; min-width: 300px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab27622&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200" alt="Top languages" style="max-width: 100%; min-width: 300px;"/>
 </div>
 
 <div align="center">
