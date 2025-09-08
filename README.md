@@ -75,8 +75,3 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" style="max-width: 100%;">
 </div>
 
----
-
-<div align="center">
-  <i>Keep coding, keep exploring! 🚀</i>
-</div>
