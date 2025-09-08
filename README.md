@@ -66,7 +66,7 @@
 
 <div align="center">
   <p>
-    <img src="https://visitcount.itsvg.in/api?id=Arnab27622&icon=7&color=3" alt="Profile visits"/>
+    <img src="https://komarev.com/ghpvc/?username=Arnab27622&color=blueviolet&style=flat-square" alt="Profile views" />
   </p>
 </div>
 
@@ -74,4 +74,3 @@
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" style="max-width: 100%;">
 </div>
-
