@@ -55,9 +55,9 @@ Here's a snapshot of the technologies I work with:
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arnab27622&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="200"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Arnab27622&theme=dark&hide_border=false" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab27622&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arnab27622&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="200"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Arnab27622&theme=radical&hide_border=false" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab27622&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200"/>
 </div>
 
 
