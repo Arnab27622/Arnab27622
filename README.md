@@ -61,7 +61,7 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Arnab27622&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="200" alt="GitHub stats" style="max-width: 100%; min-width: 300px;"/>
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=Arnab27622&theme=radical&hide_border=false" height="200" alt="Streak stats" style="max-width: 100%; min-width: 300px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab27622&theme=radical&hide_border=false&layout=compact&count_private=false&include_all_commits=true" height="200" alt="Top languages" style="max-width: 100%; min-width: 300px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab27622&theme=radical&hide_border=false&layout=compact&count_private=true&include_all_commits=true" height="200" alt="Top languages" style="max-width: 100%; min-width: 300px;"/>
 </div>
 
 <div align="center">
