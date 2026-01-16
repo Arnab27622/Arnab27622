@@ -1,8 +1,5 @@
 <div align="center">
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rye&size=31&pause=1000&color=F7F7F7&center=true&vCenter=true&width=480&height=61&lines=Coding++Wizard;2+%3D+10;Coffee+with+JavaScript;Coffee+Powered+Coder;Friday+Evenings;Cherry+Blossom)](https://git.io/typing-svg)
-
-  <h1>👋 Hi, I'm Arnab Dey</h1>
+<h1>👋 Hi, I'm Arnab Dey</h1>
 
   <p>Passionate developer exploring and debugging the world of code, one line at a time</p>
 
