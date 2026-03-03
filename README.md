@@ -38,6 +38,7 @@
 <p>
   <img height="40px" src="https://skillicons.dev/icons?i=react" alt="React" title="React"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"/>&nbsp;&nbsp;
+  <img height="40px" src="https://skillicons.dev/icons?i=express" alt="Next.js" title="Express"/>&nbsp;&nbsp;
 </p>
 
 ### Tools & Environment
@@ -45,7 +46,7 @@
   <img height="40px" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/>&nbsp;&nbsp;
   <img height="40px" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/>&nbsp;&nbsp;
-  <img height="40px" src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite"/>&nbsp;&nbsp;
+  <img height="40px" src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" title="Nodejs"/>&nbsp;&nbsp;
 </p>
 
 ## 📊 GitHub Stats
